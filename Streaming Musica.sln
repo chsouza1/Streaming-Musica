@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Streaming Musica", "Streaming Musica\Streaming Musica.csproj", "{D0485EA8-8252-46B4-9C91-E2E8E0FB7895}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D0485EA8-8252-46B4-9C91-E2E8E0FB7895}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0485EA8-8252-46B4-9C91-E2E8E0FB7895}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0485EA8-8252-46B4-9C91-E2E8E0FB7895}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0485EA8-8252-46B4-9C91-E2E8E0FB7895}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42ABEE67-BA07-42AE-8F8F-65CE2387EC75}
+	EndGlobalSection
+EndGlobal
